@@ -55,7 +55,7 @@ def lspline(series, knots):
 
 def create_calibration_plot(
     data,
-    file_name,
+    # file_name,
     prob_var,
     actual_var,
     y_lab="Actual event probability",
