@@ -4,6 +4,8 @@ Coding classes in Python for Data Analysis 3 on MSc in Business Analytics on the
 
 The notebooks are slightly modified versions of the [case studies](https://github.com/gabors-data-analysis/da_case_studies) for the [Bekes - Kezdi Data Analysis textbook](https://gabors-data-analysis.com/).
 
+The code has been developed and tested on Python 3.10.
+
 ## Contents
 
 1. class 13, used cars  
