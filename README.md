@@ -44,14 +44,11 @@ CV RMSE & AUC for probability models.<br>
 Classification using logit with no loss function.<br>
 Calibration plot, confusion matrix, ROC, AUC.<br>
 Classification (logit) with user-defined loss function
-Classification with CART.<br>
 Random forest for probabilities, with and without a loss function.<br>
 Classification with random forest.<br>
 
 6. class 18, swimming pool, Case-Shiller<br>
-Managing time series data with the tsibble package<br>
 Deterministic modelling: OLS, trend, seasonal & other dummies<br>
 Introducing `fbProphet`<br>
-Stochastic modelling with the fable package<br>
 ARIMA, auto-arima<br>
 Vector Autoregressions<br>
